@@ -1,0 +1,22 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_24235561_31C0_B534_41B8_DBFDB224356B.label = Banheiro social
+panorama_24243B6C_31C0_DD0D_41C5_C209DD0AD330.label = Banheiro suite
+panorama_2423706E_31C0_AB0C_41C7_7205FC508B90.label = Corredor
+panorama_2424C9D2_31C0_5D14_4192_1867C5241D8A.label = Entrada
+panorama_2697257F_31C0_D50B_41A6_1BABF8EC05F3.label = Suíte
+panorama_24232F4A_31C0_5574_41A9_FB3070213554.label = cozinha
+panorama_2424D43D_31C0_6B0C_41B2_3AE9143156C8.label = lavanderia
+panorama_2423BA5B_31C0_BF14_41C0_206F2C0E4113.label = quarto
+panorama_24232FC0_31C0_B574_41C1_B955BD854F52.label = sacada
+panorama_242374CF_31C0_AB0B_4194_CA32A80079BC.label = sala
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Castro Alves, 100 ap 52_20656
